@@ -105,5 +105,3 @@ next-env.d.ts
 !RELEASES.md
 !docs/
 !docs/**/*.md
-!PR_*.md
-!docs/
