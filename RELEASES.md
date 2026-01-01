@@ -8,7 +8,8 @@ Ce document consigne l'évolution chronologique du système Wistant Studio. Chaq
 
 ### [v0.0.1] — 2026-01-01
 
-#### 🏗️ Project Genesis & Shell
+#### Project Genesis & Shell
+
 - **Monorepo Init**: Setup de Turborepo avec PNPM pour une gestion fluide des packages.
 - **App Tri-Fragmentation**: Séparation physique de `landing`, `store` et `studio` (Next.js 16).
 - **Backend Shell**: Initialisation de NestJS 11 avec Prisma 7 (PostgreSQL ready).
@@ -17,6 +18,7 @@ Ce document consigne l'évolution chronologique du système Wistant Studio. Chaq
 
 ---
 
-## 🔜 Coming Next
+## Coming Next
+
 - **[v0.1.0]**: Modularization of NestJS backend and shared DTOs.
 - **[v0.2.0]**: Launch of the Cinematic Landing UI.
